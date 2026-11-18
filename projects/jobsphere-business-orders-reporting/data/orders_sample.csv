@@ -1,0 +1,181 @@
+Order_ID,Order_Date,Region,Sales_Channel,Category,Product,Quantity,Unit_Price_INR,Unit_Cost_INR,Discount_Pct,Order_Status
+ORD-61001,2026-01-20,North,Website,Electronics,Headphones,3,1040,680,0.13,Delivered
+ORD-61002,2026-09-01,South,Website,Electronics,USB Hub,3,1160,690,0.16,Delivered
+ORD-61003,2026-03-22,East,Marketplace,Electronics,USB Hub,3,4290,3090,0.08,Delivered
+ORD-61004,2026-09-29,East,Marketplace,Grocery,Tea Pack,2,3610,2440,0.03,Delivered
+ORD-61005,2026-02-11,East,Website,Grocery,Coffee Beans,2,2200,1480,0.17,Delivered
+ORD-61006,2026-09-28,South,Website,Grocery,Tea Pack,4,1010,650,0.06,Delivered
+ORD-61007,2026-07-16,North,Marketplace,Home,Water Bottle,3,1530,920,0.17,Delivered
+ORD-61008,2026-04-28,North,Marketplace,Beauty,Face Wash,3,2190,1340,0.06,Delivered
+ORD-61009,2026-07-06,South,Marketplace,Home,Cotton Sheet,5,1910,1140,0.15,Delivered
+ORD-61010,2026-07-11,East,Website,Beauty,Hair Oil,2,4080,2330,0.12,Delivered
+ORD-61011,2026-06-21,East,Marketplace,Grocery,Olive Oil,2,3000,2110,0.14,Delivered
+ORD-61012,2026-02-04,East,Marketplace,Home,Cotton Sheet,5,500,340,0.17,Delivered
+ORD-61013,2026-07-16,East,Website,Home,Storage Box,2,4150,2160,0.1,Delivered
+ORD-61014,2026-07-20,West,Website,Grocery,Coffee Beans,1,4380,2320,0.1,Delivered
+ORD-61015,2026-04-28,South,Marketplace,Grocery,Snack Box,2,4070,3000,0.03,Delivered
+ORD-61016,2026-01-29,West,Website,Grocery,Coffee Beans,3,820,410,0.12,Delivered
+ORD-61017,2026-10-18,South,Marketplace,Home,Cotton Sheet,2,2580,1580,0.09,Pending
+ORD-61018,2026-09-27,North,Website,Electronics,Wireless Mouse,2,580,420,0.15,Delivered
+ORD-61019,2026-09-14,East,Marketplace,Grocery,Snack Box,1,4350,2680,0.1,Delivered
+ORD-61020,2026-10-02,North,Marketplace,Electronics,Headphones,2,3290,2230,0.01,Delivered
+ORD-61021,2026-09-24,North,Marketplace,Electronics,USB Hub,5,3290,2500,0.15,Delivered
+ORD-61022,2026-05-22,South,Marketplace,Home,Desk Lamp,1,3810,2600,0.07,Delivered
+ORD-61023,2026-10-15,East,Marketplace,Home,Water Bottle,4,4210,2510,0.15,Delivered
+ORD-61024,2026-03-15,South,Website,Grocery,Tea Pack,3,4250,2640,0.16,Delivered
+ORD-61025,2026-06-15,West,Website,Beauty,Hair Oil,5,1090,560,0.16,Delivered
+ORD-61026,2026-07-02,South,Website,Grocery,Snack Box,3,1350,890,0.06,Delivered
+ORD-61027,2026-04-29,East,Website,Electronics,USB Hub,1,3100,1940,0.03,Delivered
+ORD-61028,2026-02-08,East,Website,Home,Cotton Sheet,4,1030,750,0.16,Delivered
+ORD-61029,2026-07-09,North,Website,Beauty,Face Wash,2,4420,2940,0.17,Delivered
+ORD-61030,2026-07-27,East,Website,Beauty,Sunscreen,2,1660,1010,0.09,Delivered
+ORD-61031,2026-01-11,South,Marketplace,Grocery,Coffee Beans,2,2560,1420,0.14,Delivered
+ORD-61032,2026-04-11,South,Website,Electronics,Headphones,5,2760,1560,0.04,Delivered
+ORD-61033,2026-09-19,East,Website,Grocery,Snack Box,5,4170,2050,0.14,Delivered
+ORD-61034,2026-06-26,South,Website,Beauty,Hair Oil,4,1950,1270,0.11,Delivered
+ORD-61035,2026-09-25,South,Website,Beauty,Sunscreen,4,2010,1530,0.14,Delivered
+ORD-61036,2026-01-12,South,Marketplace,Beauty,Hair Oil,3,910,490,0.09,Delivered
+ORD-61037,2026-06-11,West,Marketplace,Electronics,Headphones,3,1890,1310,0.1,Delivered
+ORD-61038,2026-04-11,North,Marketplace,Beauty,Sunscreen,5,1560,790,0.17,Delivered
+ORD-61039,2026-08-31,East,Website,Grocery,Snack Box,5,2270,1600,0.11,Delivered
+ORD-61040,2026-03-09,North,Marketplace,Grocery,Coffee Beans,3,2050,1270,0.14,Delivered
+ORD-61041,2026-01-19,North,Marketplace,Home,Cotton Sheet,4,3920,2210,0.01,Cancelled
+ORD-61042,2026-08-12,North,Marketplace,Electronics,Power Bank,3,2050,1350,0.02,Cancelled
+ORD-61043,2026-01-04,West,Marketplace,Electronics,Headphones,5,660,460,0.14,Delivered
+ORD-61044,2026-10-27,North,Marketplace,Electronics,USB Hub,5,800,580,0.15,Delivered
+ORD-61045,2026-02-17,South,Website,Beauty,Sunscreen,5,1730,1150,0.16,Delivered
+ORD-61046,2026-06-03,West,Marketplace,Electronics,USB Hub,4,1640,950,0.15,Cancelled
+ORD-61047,2026-04-15,East,Website,Grocery,Snack Box,1,1400,1050,0.16,Delivered
+ORD-61048,2026-05-16,North,Website,Beauty,Sunscreen,2,3480,2560,0.06,Delivered
+ORD-61049,2026-06-03,East,Marketplace,Grocery,Tea Pack,5,4340,3020,0.09,Cancelled
+ORD-61050,2026-08-02,West,Marketplace,Beauty,Body Lotion,3,3180,1640,0.11,Pending
+ORD-61051,2026-03-27,West,Website,Grocery,Snack Box,5,4250,3120,0.15,Delivered
+ORD-61052,2026-01-25,South,Website,Beauty,Body Lotion,3,1360,990,0.02,Delivered
+ORD-61053,2026-08-02,East,Marketplace,Home,Storage Box,5,3710,2130,0.08,Delivered
+ORD-61054,2026-10-08,West,Marketplace,Electronics,Headphones,1,4290,2260,0.04,Delivered
+ORD-61055,2026-08-16,West,Website,Home,Desk Lamp,5,860,560,0.17,Delivered
+ORD-61056,2026-05-09,West,Marketplace,Electronics,USB Hub,4,1230,630,0.13,Cancelled
+ORD-61057,2026-09-14,North,Website,Beauty,Hair Oil,3,3020,2250,0.16,Delivered
+ORD-61058,2026-07-06,West,Website,Home,Storage Box,5,2590,1920,0.08,Delivered
+ORD-61059,2026-05-30,South,Website,Home,Water Bottle,4,4100,2730,0.14,Delivered
+ORD-61060,2026-07-13,North,Marketplace,Beauty,Face Wash,4,2390,1800,0.06,Delivered
+ORD-61061,2026-10-11,South,Marketplace,Electronics,Wireless Mouse,2,1150,550,0.09,Delivered
+ORD-61062,2026-07-30,North,Marketplace,Electronics,Wireless Mouse,5,440,250,0.17,Delivered
+ORD-61063,2026-06-16,North,Website,Electronics,Wireless Mouse,4,1980,1500,0.14,Delivered
+ORD-61064,2026-05-11,North,Marketplace,Beauty,Sunscreen,2,1570,1080,0.01,Cancelled
+ORD-61065,2026-02-24,South,Marketplace,Grocery,Olive Oil,4,3070,2090,0.17,Pending
+ORD-61066,2026-09-12,South,Marketplace,Home,Cotton Sheet,2,1650,1080,0.18,Pending
+ORD-61067,2026-02-16,North,Website,Electronics,USB Hub,2,3780,2070,0.16,Pending
+ORD-61068,2026-02-14,East,Website,Electronics,USB Hub,3,760,450,0.07,Cancelled
+ORD-61069,2026-01-28,South,Website,Home,Water Bottle,5,4020,2610,0.13,Delivered
+ORD-61070,2026-03-16,South,Website,Electronics,Power Bank,1,250,120,0.12,Delivered
+ORD-61071,2026-02-25,West,Website,Electronics,Power Bank,4,270,180,0.14,Delivered
+ORD-61072,2026-09-10,East,Marketplace,Electronics,Headphones,3,3510,1870,0.05,Delivered
+ORD-61073,2026-04-22,East,Marketplace,Beauty,Sunscreen,3,2530,1620,0.02,Pending
+ORD-61074,2026-03-06,North,Marketplace,Electronics,USB Hub,4,1430,880,0.04,Delivered
+ORD-61075,2026-03-02,North,Website,Grocery,Tea Pack,5,330,160,0.05,Delivered
+ORD-61076,2026-03-22,East,Website,Beauty,Hair Oil,2,1470,800,0.08,Delivered
+ORD-61077,2026-10-07,East,Marketplace,Electronics,Wireless Mouse,5,4130,2930,0.06,Delivered
+ORD-61078,2026-05-23,North,Website,Electronics,USB Hub,2,4240,3210,0.09,Pending
+ORD-61079,2026-04-20,North,Marketplace,Beauty,Sunscreen,2,3020,2040,0.13,Cancelled
+ORD-61080,2026-10-09,South,Marketplace,Home,Storage Box,2,3650,1980,0.01,Delivered
+ORD-61081,2026-06-24,North,Website,Home,Water Bottle,5,420,260,0.15,Delivered
+ORD-61082,2026-04-26,East,Marketplace,Beauty,Sunscreen,4,4210,2520,0.02,Delivered
+ORD-61083,2026-08-22,West,Marketplace,Electronics,Headphones,3,2550,1710,0,Delivered
+ORD-61084,2026-08-01,West,Marketplace,Grocery,Snack Box,5,2960,1860,0.04,Delivered
+ORD-61085,2026-07-28,North,Marketplace,Beauty,Body Lotion,3,280,190,0.17,Delivered
+ORD-61086,2026-07-16,West,Website,Beauty,Face Wash,3,1310,940,0.12,Pending
+ORD-61087,2026-03-30,South,Marketplace,Electronics,Headphones,3,2200,1330,0.13,Delivered
+ORD-61088,2026-10-10,West,Website,Grocery,Olive Oil,3,2850,1530,0.14,Delivered
+ORD-61089,2026-05-20,South,Website,Home,Cotton Sheet,1,4270,2290,0.11,Cancelled
+ORD-61090,2026-10-30,West,Marketplace,Beauty,Face Wash,1,1830,1370,0.14,Delivered
+ORD-61091,2026-10-26,North,Marketplace,Electronics,USB Hub,4,2760,1860,0.1,Delivered
+ORD-61092,2026-02-22,East,Website,Electronics,Wireless Mouse,4,2220,1310,0.05,Delivered
+ORD-61093,2026-04-08,West,Marketplace,Grocery,Tea Pack,4,2080,1410,0.1,Pending
+ORD-61094,2026-01-10,East,Marketplace,Beauty,Hair Oil,1,4410,2640,0.08,Delivered
+ORD-61095,2026-05-28,South,Marketplace,Grocery,Coffee Beans,1,2750,2020,0.11,Pending
+ORD-61096,2026-02-26,South,Website,Grocery,Snack Box,2,1420,910,0.01,Delivered
+ORD-61097,2026-03-17,West,Website,Grocery,Snack Box,2,4160,2740,0.13,Cancelled
+ORD-61098,2026-06-19,North,Website,Home,Cotton Sheet,1,4260,2520,0.15,Cancelled
+ORD-61099,2026-06-23,South,Marketplace,Grocery,Snack Box,4,1880,1330,0.07,Delivered
+ORD-61100,2026-07-05,West,Website,Grocery,Tea Pack,3,420,210,0,Delivered
+ORD-61101,2026-10-14,East,Website,Home,Water Bottle,1,3120,1970,0.12,Pending
+ORD-61102,2026-05-24,East,Website,Home,Water Bottle,2,1570,770,0.04,Pending
+ORD-61103,2026-04-27,North,Marketplace,Electronics,USB Hub,5,3590,2160,0.14,Delivered
+ORD-61104,2026-04-04,North,Marketplace,Grocery,Coffee Beans,1,1240,880,0.06,Pending
+ORD-61105,2026-06-29,East,Website,Grocery,Tea Pack,2,1290,880,0.05,Delivered
+ORD-61106,2026-02-24,North,Website,Home,Water Bottle,2,3320,1620,0.02,Cancelled
+ORD-61107,2026-09-28,West,Marketplace,Electronics,Wireless Mouse,4,2760,1690,0.04,Cancelled
+ORD-61108,2026-05-05,South,Marketplace,Electronics,Headphones,1,3710,2500,0.11,Delivered
+ORD-61109,2026-07-31,South,Marketplace,Home,Water Bottle,5,2460,1230,0.17,Delivered
+ORD-61110,2026-08-13,South,Website,Beauty,Body Lotion,1,3630,1980,0.14,Delivered
+ORD-61111,2026-06-16,West,Marketplace,Grocery,Tea Pack,1,1540,900,0.11,Delivered
+ORD-61112,2026-01-22,South,Website,Electronics,USB Hub,3,1230,670,0.14,Pending
+ORD-61113,2026-02-27,East,Marketplace,Beauty,Face Wash,4,590,320,0.12,Pending
+ORD-61114,2026-01-25,West,Marketplace,Home,Water Bottle,5,2160,1290,0.15,Delivered
+ORD-61115,2026-03-05,West,Website,Electronics,USB Hub,3,370,190,0.18,Delivered
+ORD-61116,2026-09-26,East,Marketplace,Grocery,Coffee Beans,5,3640,2330,0.05,Cancelled
+ORD-61117,2026-03-11,West,Website,Grocery,Coffee Beans,2,2310,1670,0.01,Delivered
+ORD-61118,2026-09-03,East,Marketplace,Home,Storage Box,1,4300,2550,0.02,Pending
+ORD-61119,2026-04-04,South,Marketplace,Beauty,Body Lotion,1,990,530,0.17,Delivered
+ORD-61120,2026-04-12,East,Website,Beauty,Body Lotion,1,3310,2500,0.15,Delivered
+ORD-61121,2026-05-30,West,Marketplace,Electronics,USB Hub,5,1360,670,0.16,Delivered
+ORD-61122,2026-06-20,South,Website,Grocery,Coffee Beans,4,1500,850,0.05,Pending
+ORD-61123,2026-02-12,West,Marketplace,Grocery,Olive Oil,2,2700,1340,0.18,Cancelled
+ORD-61124,2026-09-02,West,Marketplace,Electronics,Wireless Mouse,4,670,470,0.03,Delivered
+ORD-61125,2026-03-24,East,Marketplace,Electronics,Power Bank,4,370,230,0.09,Cancelled
+ORD-61126,2026-05-09,North,Marketplace,Home,Desk Lamp,3,1590,1160,0.05,Delivered
+ORD-61127,2026-03-19,East,Marketplace,Grocery,Coffee Beans,1,2740,2070,0.05,Delivered
+ORD-61128,2026-08-14,North,Website,Home,Water Bottle,3,1220,640,0.11,Delivered
+ORD-61129,2026-10-28,East,Marketplace,Home,Cotton Sheet,1,550,350,0.17,Delivered
+ORD-61130,2026-09-16,West,Marketplace,Electronics,Headphones,3,1110,700,0.07,Delivered
+ORD-61131,2026-05-21,West,Marketplace,Electronics,Wireless Mouse,3,810,480,0.14,Delivered
+ORD-61132,2026-07-28,West,Website,Grocery,Coffee Beans,4,2550,1870,0.05,Delivered
+ORD-61133,2026-08-23,East,Website,Home,Desk Lamp,2,470,280,0.08,Cancelled
+ORD-61134,2026-07-07,East,Marketplace,Grocery,Snack Box,2,260,190,0.01,Delivered
+ORD-61135,2026-10-23,North,Marketplace,Beauty,Face Wash,1,1860,1410,0.07,Pending
+ORD-61136,2026-06-15,North,Marketplace,Beauty,Sunscreen,3,2530,1710,0.09,Cancelled
+ORD-61137,2026-10-16,North,Marketplace,Beauty,Body Lotion,3,2290,1220,0.09,Delivered
+ORD-61138,2026-08-03,North,Marketplace,Grocery,Coffee Beans,2,530,360,0.06,Delivered
+ORD-61139,2026-03-25,South,Website,Beauty,Hair Oil,5,790,560,0.09,Pending
+ORD-61140,2026-04-28,West,Website,Grocery,Olive Oil,2,3560,2250,0,Delivered
+ORD-61141,2026-02-17,West,Website,Electronics,Headphones,1,360,240,0.15,Delivered
+ORD-61142,2026-09-03,East,Marketplace,Grocery,Tea Pack,2,3020,2280,0.06,Cancelled
+ORD-61143,2026-07-08,East,Website,Grocery,Olive Oil,2,550,400,0,Delivered
+ORD-61144,2026-04-03,East,Marketplace,Grocery,Tea Pack,5,630,470,0.11,Delivered
+ORD-61145,2026-05-09,North,Website,Home,Desk Lamp,4,3170,1740,0.03,Pending
+ORD-61146,2026-01-02,East,Marketplace,Beauty,Face Wash,5,610,370,0.12,Delivered
+ORD-61147,2026-05-08,South,Marketplace,Grocery,Coffee Beans,5,3410,1730,0.17,Delivered
+ORD-61148,2026-06-02,North,Marketplace,Electronics,Wireless Mouse,3,2100,1020,0.08,Delivered
+ORD-61149,2026-07-13,North,Website,Grocery,Snack Box,2,3130,1700,0.17,Delivered
+ORD-61150,2026-07-25,North,Website,Grocery,Tea Pack,4,3390,1720,0.04,Delivered
+ORD-61151,2026-07-31,East,Website,Electronics,Headphones,3,3220,2100,0.06,Delivered
+ORD-61152,2026-01-15,East,Website,Electronics,Wireless Mouse,4,1910,1240,0.02,Delivered
+ORD-61153,2026-03-29,North,Marketplace,Electronics,Wireless Mouse,3,1460,1030,0.07,Delivered
+ORD-61154,2026-10-30,West,Website,Home,Cotton Sheet,5,2260,1690,0.13,Cancelled
+ORD-61155,2026-07-21,West,Marketplace,Grocery,Snack Box,2,1410,910,0.09,Delivered
+ORD-61156,2026-01-09,West,Marketplace,Electronics,Wireless Mouse,5,2880,1550,0.08,Delivered
+ORD-61157,2026-06-24,South,Website,Beauty,Sunscreen,4,3470,2630,0.05,Delivered
+ORD-61158,2026-08-24,North,Website,Electronics,Power Bank,5,3430,1670,0.1,Delivered
+ORD-61159,2026-07-19,North,Website,Beauty,Face Wash,4,1390,870,0.01,Pending
+ORD-61160,2026-10-01,South,Marketplace,Beauty,Hair Oil,4,3650,2700,0.07,Delivered
+ORD-61161,2026-05-18,East,Marketplace,Beauty,Face Wash,2,1820,1260,0.09,Delivered
+ORD-61162,2026-07-22,North,Website,Beauty,Hair Oil,3,1480,980,0.18,Delivered
+ORD-61163,2026-05-30,West,Website,Beauty,Sunscreen,1,510,380,0.04,Delivered
+ORD-61164,2026-05-26,North,Marketplace,Beauty,Body Lotion,5,4240,3200,0.15,Delivered
+ORD-61165,2026-10-09,East,Website,Beauty,Sunscreen,1,810,470,0,Delivered
+ORD-61166,2026-05-29,East,Marketplace,Beauty,Sunscreen,4,4370,2440,0.09,Delivered
+ORD-61167,2026-07-05,South,Website,Grocery,Coffee Beans,5,2660,1450,0.12,Delivered
+ORD-61168,2026-10-21,North,Marketplace,Grocery,Tea Pack,2,1770,990,0.08,Delivered
+ORD-61169,2026-01-10,East,Website,Home,Desk Lamp,2,1280,730,0.02,Delivered
+ORD-61170,2026-05-05,North,Marketplace,Beauty,Body Lotion,3,2970,1460,0.07,Delivered
+ORD-61171,2026-04-17,West,Marketplace,Electronics,Power Bank,3,3030,1770,0.02,Delivered
+ORD-61172,2026-07-27,South,Marketplace,Grocery,Snack Box,3,1950,1350,0.16,Delivered
+ORD-61173,2026-06-19,North,Website,Grocery,Coffee Beans,3,4120,2910,0.1,Delivered
+ORD-61174,2026-01-27,West,Website,Grocery,Olive Oil,2,3190,2210,0.07,Delivered
+ORD-61175,2026-03-29,West,Website,Electronics,Wireless Mouse,4,3210,1730,0.18,Delivered
+ORD-61176,2026-05-10,East,Marketplace,Grocery,Olive Oil,3,490,370,0.07,Delivered
+ORD-61177,2026-01-26,North,Marketplace,Home,Storage Box,4,260,180,0.08,Delivered
+ORD-61178,2026-10-03,North,Website,Grocery,Coffee Beans,2,2090,1520,0.02,Delivered
+ORD-61179,2026-09-16,North,Website,Grocery,Olive Oil,1,920,600,0.03,Cancelled
+ORD-61180,2026-04-23,West,Marketplace,Electronics,Headphones,5,1300,830,0.06,Delivered
